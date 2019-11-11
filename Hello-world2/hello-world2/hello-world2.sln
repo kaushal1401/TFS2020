@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello-world2", "hello-world2\hello-world2.csproj", "{BA48A94C-A664-4411-95AD-4A22BBEECF7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA48A94C-A664-4411-95AD-4A22BBEECF7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA48A94C-A664-4411-95AD-4A22BBEECF7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA48A94C-A664-4411-95AD-4A22BBEECF7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA48A94C-A664-4411-95AD-4A22BBEECF7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C73824C-8393-44C5-B0C6-8A9F24CD9791}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://desktop-rd5g1bc/test
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = hello-world2\\hello-world2.csproj
+		SccProjectName1 = hello-world2
+		SccLocalPath1 = hello-world2
+	EndGlobalSection
+EndGlobal
