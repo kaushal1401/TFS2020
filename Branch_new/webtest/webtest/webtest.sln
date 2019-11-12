@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webtest", "webtest\webtest.csproj", "{162C1603-8B74-4BA7-9475-257667278AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{162C1603-8B74-4BA7-9475-257667278AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162C1603-8B74-4BA7-9475-257667278AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162C1603-8B74-4BA7-9475-257667278AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162C1603-8B74-4BA7-9475-257667278AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B46C72CC-FE1A-4710-A739-52F6DB1BEF53}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://desktop-rd5g1bc/test
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = webtest\\webtest.csproj
+		SccProjectName1 = webtest
+		SccLocalPath1 = webtest
+	EndGlobalSection
+EndGlobal
